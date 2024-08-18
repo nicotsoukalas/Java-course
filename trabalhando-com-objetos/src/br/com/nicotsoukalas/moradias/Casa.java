@@ -1,10 +1,10 @@
 package br.com.nicotsoukalas.moradias;
+
 public class Casa {
-    public boolean inteligente; 
-    public String nome;
+    public Boolean inteligente = false; 
+    public String nome; 
 
     public Casa() {
-
     }
 
     public Casa(boolean inteligente) {

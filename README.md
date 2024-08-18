@@ -1,3 +1,3 @@
 # Estudos de Java
 
-Repositório para estdos de Java
+Repositório para estudos de Java

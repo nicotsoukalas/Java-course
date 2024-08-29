@@ -2,7 +2,11 @@ package empresa;
 
 public class Carro {
     private String volante;
+<<<<<<< HEAD
     private String pedais;
+=======
+    private  String pedais;
+>>>>>>> e7757c3360287f7102fcc850ac4de4db2e3c169e
 
     private Motor motor;   
     private String airbag;
